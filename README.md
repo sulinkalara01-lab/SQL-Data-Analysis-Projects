@@ -11,7 +11,7 @@ Hello! In this repository, I showcase the projects and analyses I have developed
 ### 1. International User Engagement Analysis
 * **Description:** Analyzed global user reproduction behavior to identify countries with the highest watch or listening times, excluding the United States (USA) market to specifically evaluate international segment performance.
 * **SQL Topics Used:** `LEFT JOIN` for combining metrics and user profiles, Conditional filtering with `WHERE` (`<>`), Data grouping with `GROUP BY`, Aggregation filtering with `HAVING`, and Aggregate functions (`SUM`).
-* **Code:** [View SQL Script Here](https://github.com/sulinkalara01-lab/SQL-Data-Analysis-Projects/blob/main/Calculate%20total%20reproduction%20time%20by%20country.sql)
+* **Code:** [View SQL Script Here](https://github.com/sulinkalara01-lab/SQL-Data-Analysis-Projects/blob/main/Total%20reproduction%20time%20by%20country.sql)
 
 ---
 
